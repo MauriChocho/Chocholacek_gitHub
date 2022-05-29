@@ -1,5 +1,5 @@
  body{
-     background-color: #afff96;
+     background-image: linear-gradient(to right, #afff96, rgb(187, 186, 186));
  }
  
  /* Estilos al header*/
@@ -143,8 +143,6 @@ h1 .titulo{
     animation-name: textBounce;
     animation-duration:  1s;
     animation-iteration-count: infinite;
-
-   
 }
 /* ANIMACIONES */
 
