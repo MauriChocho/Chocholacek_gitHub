@@ -124,6 +124,9 @@ padding: 5px;}
     font-size: 20px;
     padding-left: 15px;
 }
+.pie ul li{
+    list-style: none;
+}
 
 /* Estilos a servicios */
 
@@ -236,6 +239,9 @@ header .titulo{
   .serv-1{grid-area: serv-1; margin: 20px 10px;}
   .serv-2{grid-area: serv-2; margin: 20px 10px;}
   .serv-3{grid-area: serv-3; margin: 20px 10px;}
+
+  
+
   .serv-1 h3{background-color:greenyellow; color: black; margin: 20px; border: solid 1px black; border-radius: 3px;}
   .serv-2 h3{background-color:greenyellow; color: black; margin: 20px; border: solid 1px black; border-radius: 3px;}
   .serv-3 h3{background-color:greenyellow; color: black; margin: 20px; border: solid 1px black; border-radius: 3px;}
@@ -284,6 +290,12 @@ header .titulo{
         ;
     }
 }
+
+
+.card{
+border: black 2px solid;
+border-radius: 10px;
+padding: 15px;}
 
 
 
